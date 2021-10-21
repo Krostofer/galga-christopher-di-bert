@@ -1,0 +1,17 @@
+{
+    "P2%Ca6~%/d/V}s$": {
+        "data": "hwQYABAAAAAAAADwDwAAAAAAACwPAAAA/P/PIg8AAABMJPLCD8D8AMxEIswPL/IAwEwkwvwi8gAAzCzCLCLyAADALMIiIvIPAMAiwiJC/P8AwCLCIkT//wAvIiJM9P//AC8iIkL/L/IALyIiIvzM/PAsIiIi8sIP/0wimyLy/wDPTCKRIvIAAM9MJBEi8gAALy+0ESLyAAAvz5sZIvIAAP/Pmbki8gAA/wCcKyIPAAAAAMAiIg8AAAAAACzyAAAAAAAAwA8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "planehorizontal"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDEAAAAAAAAwMQAAAAAAADIhAAAAAAAAMiEAAAAAAAATMQIAAAAAIBMRAgAAAAAgEREDAAAAABIRESEAAAAAEhERIQAAAAASEREhAAAAABIRESEAAAAAIBERAgAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "plane"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
